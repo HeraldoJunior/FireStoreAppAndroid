@@ -32,10 +32,18 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="heraldo.junior" />
+          <option name="userName" value="heraldojunior" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/HeraldoJunior/FireStoreAppAndroid" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HeraldoJunior/androi001" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HeraldoJunior/android0002" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
